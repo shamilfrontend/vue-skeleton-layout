@@ -1,1 +1,7 @@
-console.log('Hello world');
+import SkeletonLayout from './index.vue';
+
+export {
+  SkeletonLayout
+};
+
+export default SkeletonLayout;
