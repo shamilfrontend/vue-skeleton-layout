@@ -1,0 +1,21 @@
+{
+  "name": "vue-skeleton-layout",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamilfrontend/vue-skeleton-layout.git"
+  },
+  "keywords": [
+    "skeleton",
+    "vue-skeleton"
+  ],
+  "author": "ShamilFrontend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamilfrontend/vue-skeleton-layout/issues"
+  },
+  "homepage": "https://github.com/shamilfrontend/vue-skeleton-layout#readme"
+}
